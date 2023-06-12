@@ -7,8 +7,6 @@ const productRouter = require("./routes/product");
 const userRouter = require("./routes/user");
 const mongoose = require("mongoose");
 
-// mongo password = E3waSLSmDlWFttoT
-// mongo username = susilnayak2015
 
 main().catch((err) => console.log(err));
 
